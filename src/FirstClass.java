@@ -12,6 +12,4 @@ public class FirstClass {
             System.out.println("You got the high score!");
         }
     }
-
-    
 }
