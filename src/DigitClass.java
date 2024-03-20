@@ -13,6 +13,8 @@ public class DigitClass {
             number /= 10;
         }
 
+        sum += number;
+
         return sum;
     }
 }
